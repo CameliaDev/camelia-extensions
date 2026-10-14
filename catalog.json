@@ -26,6 +26,22 @@
       "repo": "https://github.com/CameliaDev/camelia-extensions",
       "path": "skills/quiet-shell-notes",
       "tags": ["shell", "sample"]
+    },
+    {
+      "id": "cumcm-format-checklist",
+      "name": "cumcm-format-checklist",
+      "description": "CUMCM paper format checklist: margins, abstract page, page numbers, 30-page limit, appendix source code, anonymity, references and electronic submission rules.",
+      "repo": "https://github.com/CameliaDev/camelia-extensions",
+      "path": "skills/cumcm-format-checklist",
+      "tags": ["math-modeling", "paper", "checklist"]
+    },
+    {
+      "id": "engine-doctor",
+      "name": "engine-doctor",
+      "description": "Diagnose engine start failures: better-sqlite3 ABI mismatch (ERR_DLOPEN / NODE_MODULE_VERSION), Node version vs native bindings, and safe recovery on Windows.",
+      "repo": "https://github.com/CameliaDev/camelia-extensions",
+      "path": "skills/engine-doctor",
+      "tags": ["engine", "troubleshooting", "windows"]
     }
   ]
 }
